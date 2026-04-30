@@ -1,37 +1,23 @@
 [
   {
-    "videoUrl": "1.mp4",
-    "thumbnailUrl": "thumbnail/1.jpg",
-    "duration": 642924263
+    "videoUrl": "1.mp4"
   },
   {
-    "videoUrl": "2.mp4",
-    "thumbnailUrl": "thumbnail/2.jpg",
-    "duration": 364181769
+    "videoUrl": "2.mp4"
   },
   {
-    "videoUrl": "3.mp4",
-    "thumbnailUrl": "thumbnail/3.jpg",
-    "duration": 136661333
+    "videoUrl": "3.mp4"
   },
   {
-    "videoUrl": "4.mp4",
-    "thumbnailUrl": "thumbnail/4.jpg",
-    "duration": 89770667
+    "videoUrl": "4.mp4"
   },
   {
-    "videoUrl": "5.mp4",
-    "thumbnailUrl": "thumbnail/5.jpg",
-    "duration": 119573333
+    "videoUrl": "5.mp4"
   },
   {
-    "videoUrl": "6.mp4",
-    "thumbnailUrl": "thumbnail/6.jpg",
-    "duration": 683131066
+    "videoUrl": "6.mp4"
   },
   {
-    "videoUrl": "7.mp4",
-    "thumbnailUrl": "thumbnail/7.jpg",
-    "duration": 53781333
+    "videoUrl": "7.mp4"
   }
 ]
